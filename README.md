@@ -25,8 +25,7 @@ I build web applications that are built like race cars: robust under the hood an
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
+
 
 ---
 
